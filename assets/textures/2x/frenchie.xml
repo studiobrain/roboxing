@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:76393d93d9aac76021b73cbdd5a99445$ -->
+<TextureAtlas imagePath="frenchie.png">
+    <SubTexture name="combo/00001" x="258" y="674" width="255" height="670" frameX="-21" frameY="0" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00002" x="519" y="1336" width="255" height="664" frameX="-21" frameY="-6" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00003" x="1035" y="1334" width="257" height="656" frameX="-19" frameY="-14" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00004" x="519" y="1336" width="255" height="664" frameX="-21" frameY="-6" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00005" x="258" y="674" width="255" height="670" frameX="-21" frameY="0" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00006" x="515" y="2" width="259" height="666" frameX="-22" frameY="-4" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00007" x="772" y="670" width="265" height="662" frameX="-21" frameY="-8" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00008" x="776" y="2" width="273" height="656" frameX="-22" frameY="-14" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00009" x="772" y="670" width="265" height="662" frameX="-21" frameY="-8" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00010" x="258" y="1346" width="259" height="666" frameX="-22" frameY="-4" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="combo/00011" x="258" y="674" width="255" height="670" frameX="-21" frameY="0" frameWidth="313" frameHeight="670"/>
+    <SubTexture name="idle/00001" x="2" y="1370" width="254" height="671" frameX="0" frameY="-14" frameWidth="262" frameHeight="685"/>
+    <SubTexture name="idle/00002" x="2" y="689" width="254" height="679" frameX="0" frameY="-6" frameWidth="262" frameHeight="685"/>
+    <SubTexture name="idle/00003" x="2" y="2" width="254" height="685" frameX="0" frameY="0" frameWidth="262" frameHeight="685"/>
+    <SubTexture name="idle/00004" x="2" y="689" width="254" height="679" frameX="0" frameY="-6" frameWidth="262" frameHeight="685"/>
+    <SubTexture name="idle/00005" x="2" y="1370" width="254" height="671" frameX="0" frameY="-14" frameWidth="262" frameHeight="685"/>
+    <SubTexture name="jabLeft/00001" x="258" y="2" width="255" height="670" frameX="-21" frameY="0" frameWidth="285" frameHeight="670"/>
+    <SubTexture name="jabLeft/00002" x="515" y="670" width="255" height="664" frameX="-21" frameY="-6" frameWidth="285" frameHeight="670"/>
+    <SubTexture name="jabLeft/00003" x="776" y="1334" width="257" height="656" frameX="-19" frameY="-14" frameWidth="285" frameHeight="670"/>
+    <SubTexture name="jabLeft/00004" x="515" y="670" width="255" height="664" frameX="-21" frameY="-6" frameWidth="285" frameHeight="670"/>
+    <SubTexture name="jabLeft/00005" x="258" y="2" width="255" height="670" frameX="-21" frameY="0" frameWidth="285" frameHeight="670"/>
+</TextureAtlas>
